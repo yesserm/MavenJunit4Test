@@ -5,4 +5,9 @@ public class Aritmetica {
     {
         return a + b;
     }
+
+    public double restar(double a, double b)
+    {
+        return a - b;
+    }
 }
