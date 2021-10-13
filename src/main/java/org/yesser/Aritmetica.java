@@ -10,4 +10,12 @@ public class Aritmetica {
     {
         return a - b;
     }
+
+    public double multiplicar(double d, double e) {
+        return d * e;
+    }
+
+    public double dividir(double d, double e) {
+        return d / e;
+    }
 }
